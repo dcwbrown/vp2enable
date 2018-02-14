@@ -1,0 +1,10 @@
+*.sublime-*
+vp2enable
+*.exe
+*.elf
+*.list
+*.map
+*.dump
+*.o
+ref/*
+avrdude.conf
